@@ -1,0 +1,3 @@
+Hello world.
+This is a sample file for GIT Demonstration in Acc training.
+Added this file in the master brach. the very first file after the readme file.
