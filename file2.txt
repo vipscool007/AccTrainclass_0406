@@ -1,0 +1,4 @@
+hello friends. 
+welcome to GIT Session.. have a good luck
+
+creating file2.txt in branch1, it will not be available in master branch or in branch2.. untill i do not sync this branch with master...
